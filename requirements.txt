@@ -17,3 +17,5 @@ matplotlib
 seaborn
 jinja2
 torch
+torchvision
+torchaudio
