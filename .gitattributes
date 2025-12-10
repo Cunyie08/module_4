@@ -1,3 +1,4 @@
 C:/Users/kanyi/OneDrive/Desktop/module_4/RAG/RAG_task/Python_For_Dummies.pdf filter=lfs diff=lfs merge=lfs -text
 C:/Users/kanyi/OneDrive/Desktop/module_4/RAG/RAG_task/Python_For_Dummies.pdf filter=lfs diff=lfs merge=lfs -text
 C:/Users/kanyi/OneDrive/Desktop/module_4/RAG/RAG_task/ filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
